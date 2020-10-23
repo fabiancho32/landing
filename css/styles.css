@@ -1,0 +1,13 @@
+:root {
+    --degradado :linear-gradient(207.8deg, #201E1C 16.69%, #F7931A 100%);
+}
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html {
+    font-size: 62.5%;
+}
